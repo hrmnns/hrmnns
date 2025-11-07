@@ -1,3 +1,1 @@
-# Christoph Hermanns
-
-IT & AI Enthusiast @ [My website](https://www.cherware.de/) | [About me](https://www.cherware.de/aboutme/) | [My Blog](https://www.cherware.de/)
+The repositories I provide here are primarily workspaces for prototypes, tests, and methodological explorations related to software development, data processing, and AI-based applications. They complement my work on cherware.de by making the underlying concepts and solutions visible in an executable form. I deliberately use GitHub as a tool for structured, transparent, and reusable knowledge documentation.
